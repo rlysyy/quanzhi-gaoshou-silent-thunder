@@ -1,0 +1,28 @@
+# OpenClaw workspace artifacts
+.learnings/
+.openclaw/
+knowledge/
+skills/
+
+# Temporary / junk files
+:true
+:true}
+EOF
+**📝
+**📋
+*.bak
+*副本*
+
+# Email drafts
+邮件_*.txt
+*.eml
+
+# Old aggregated docs
+全职高手续写_无声惊雷_续写.md
+礼部交接_无声惊雷_完整文档.md
+README_无声惊雷.md
+章节规划_方案B.md
+
+# Legacy dirs (superseded by 无声惊雷_Obsidian submodule)
+章节/
+设定/
